@@ -1,0 +1,23 @@
+
+******roundcube
+
+*****Teams****
+Nom d’utilisateur: aboubacar.sidibe@concree.com
+Mot de passe temporaire: Vun82664
+Nouveau mot de passe: Harlequin96
+
+****Compte bitBucket pour récupérer le code source
+-User name : Khalifa96
+-Password : Konoh@96
+
+--Pour connaitre le nom du compte git connecté sur ma machine
+git config --global user.name
+git config --global user.email
+--Pour changer 
+git config --global user.name "Jughead1996"
+git config --global user.email "ksidibe@h-tsoft.com"
+
+***Mobile Wekomkom
+-git clone https://Khalifa96@bitbucket.org/abdoul-sy/wekomkom-mobile-v2.git
+
+git clone https://{Khalifa96}@bitbucket.org/{Khalifa96@bitbucket.org}/{wekomkom-mobile-v2}.git

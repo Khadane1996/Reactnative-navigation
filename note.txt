@@ -1,0 +1,16 @@
+
+***A consulter
+-https://nx.dev/
+
+***Installer les dépendance avec la bonne version du projet***
+-npm install --legacy-peer-deps
+
+Some dependencies are incompatible with the installed expo package version:
+ - @react-native-community/slider - expected version: 4.1.12 - actual version installed: 4.4.0
+ - react-native-reanimated - expected version: ~2.2.0 - actual version installed: 2.5.0       
+ - react-native-screens - expected version: ~3.8.0 - actual version installed: 3.9.0
+Your project may not work correctly until you install the correct versions of the pac
+
+npm install react-native-reanimated@~2.2.0
+npm i @react-native-community/slider@4.1.12
+npm install react-native-screens@~3.8.0
